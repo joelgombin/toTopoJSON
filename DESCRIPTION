@@ -1,0 +1,9 @@
+Package: toTopoJSON
+Type: Package
+Title: Create topojson files
+Version: 0.1
+Date: 2014-03-13
+Author: Joël Gombin
+Maintainer: Joël Gombin <joel.gombin@gmail.com>
+Description: This package allows to convert SpatialPolygonsDataFrame objects to topojson files.
+License: GNU GPL 3
