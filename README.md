@@ -1,0 +1,1 @@
+This package builds on [Mike Bostock's CLI topojson utility](https://github.com/mbostock/topojson/wiki/Command-Line-Reference) to transform any R SpatialPolygonDataFrame into a TopoJSON file. This is for example intended to then use [Ramnath Vaidyanathan's rMaps](https://github.com/ramnathv/rMaps) to draw interactive maps. 
