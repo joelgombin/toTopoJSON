@@ -2,10 +2,7 @@
 \alias{toTopoJSON-package}
 \alias{toTopoJSON}
 \docType{package}
-\title{
-What the package does (short line)
-~~ package title ~~
-}
+\title{A SpatialPolygonsDataFrame to TopoJSON converter.}
 \description{
 This package allows to convert SpatialPolygonsDataFrame objects to topojson files.
 }
