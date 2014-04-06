@@ -13,4 +13,4 @@ Then, you can convert any SPDF into a topojson file by running:
 toTopoJSON(list(shapefile=shapefile),simplification=0.95, quantisation="1e3", width=460, height=460, id="ID")
 ```
 
-Please refer to the helop for more details about the options. This package is at a very alpha stage, so don't hesitate to send [pull requests](https://github.com/joelgombin/toTopoJSON/pulls). Please report any issue to the [issue tracker](https://github.com/joelgombin/toTopoJSON/issues).
+Please refer to the help for more details about the options. This package is at a very alpha stage, so don't hesitate to send [pull requests](https://github.com/joelgombin/toTopoJSON/pulls). Please report any issue to the [issue tracker](https://github.com/joelgombin/toTopoJSON/issues).
