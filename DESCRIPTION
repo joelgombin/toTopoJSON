@@ -7,5 +7,4 @@ Author: Joël Gombin
 Maintainer: Joël Gombin <joel.gombin@gmail.com>
 Description: This package allows to convert SpatialPolygonsDataFrame objects to topojson files.
 License: GNU GPL 3
-Imports: rgdal, sp
-
+Imports: rgdal,sp
